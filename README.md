@@ -84,7 +84,11 @@ Django ORM (предпочтительно), Raw SQL, Sqlalchemy…
 ]
  
 ```
-
+### Для запуска проекта
+```
+Необходимо заполнить env_example файл на свои данные и переименовать
+в .env
+```
 ## Используемый стек
 ```
 Python, Django Rest Framework, PostgreSQL, Poetry
